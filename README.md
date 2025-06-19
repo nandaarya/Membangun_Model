@@ -1,4 +1,4 @@
-# Membangun_Model_Nanda-Arya-Putra
+# Membangun_Model_Stunting_Detection
 
 Repository ini dibuat untuk memenuhi **Kriteria 2** dari submission kelas **MSML (Membangun Sistem Machine Learning)**, yaitu **Membangun Model Machine Learning**.
 
